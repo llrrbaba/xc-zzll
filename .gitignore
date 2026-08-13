@@ -1,10 +1,8 @@
-# Obsidian 每台设备自己的工作区
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# Obsidian 本机配置
+.obsidian/
 
-# Obsidian Git 每台设备自己的配置
-.obsidian/plugins/obsidian-git/data.json
-
-# 系统/垃圾文件
+# Obsidian 垃圾文件
 .trash/
+
+# macOS
 .DS_Store
