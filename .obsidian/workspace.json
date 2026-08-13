@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "习近平新时代中国特色社会主义思想/未命名.md",
+                "file": "习近平新时代中国特色社会主义思想/十个明确.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "十个明确"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "习近平新时代中国特色社会主义思想/未命名.md",
+                "file": "习近平新时代中国特色社会主义思想/十个明确.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "习近平新时代中国特色社会主义思想/未命名.md",
+                "file": "习近平新时代中国特色社会主义思想/十个明确.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "习近平新时代中国特色社会主义思想/未命名.md",
+                "file": "习近平新时代中国特色社会主义思想/十个明确.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d581bacd327d7ef4",
+  "active": "01b7d2394e3917af",
   "lastOpenFiles": [
+    "中国式现代化",
     "行测-政治理论/新质生产力.md",
-    "习近平新时代中国特色社会主义思想/未命名.md",
+    "习近平新时代中国特色社会主义思想/十个明确.md",
     "习近平新时代中国特色社会主义思想",
     "测试移动",
     "行测-政治理论/高质量发展.md",
