@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed0a56640adda84f",
+        "id": "6f32a10c5d52a73c",
         "type": "tabs",
         "children": [
           {
-            "id": "f619aa47b1e6f68c",
+            "id": "d3c18c9b43d10d0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高质量发展.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "高质量发展"
+              "title": "新标签页"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高质量发展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高质量发展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高质量发展.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +178,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f619aa47b1e6f68c",
+  "active": "d3c18c9b43d10d0a",
   "lastOpenFiles": [
     "高质量发展.md"
   ]
